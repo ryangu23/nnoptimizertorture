@@ -1,5 +1,5 @@
 # nnoptimizertorture
-nn optimizer torture test for ap research (scored 5) based on numerical weather prediction nwp
+nn optimizer torture test for ap research (5 score) based on numerical weather prediction nwp
 
 8 optimizers tested for max efficiency in numerical weather prediction
 
