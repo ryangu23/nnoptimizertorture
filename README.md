@@ -3,4 +3,4 @@ nn optimizer torture test for ap research (5 score) based on numerical weather p
 
 8 optimizers tested for max efficiency in numerical weather prediction
 
-[ryangu23/noaadata](https://github.com/ryangu23/noaadump) for training data
+[ryangu23/noaadump](https://github.com/ryangu23/noaadump) for training data
