@@ -3,6 +3,6 @@ nn optimizer torture test for ap research (5 score) based on numerical weather p
 
 8 optimizers tested for max efficiency in numerical weather prediction
 
-training and logging done via jupyter notebook (keras/tensorflow)
+training and logging done via jupyter notebook (keras/tensorflow), pandas and numpy used for dataset processing
 
 [ryangu23/noaadump](https://github.com/ryangu23/noaadump) for training data
